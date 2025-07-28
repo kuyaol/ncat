@@ -1,0 +1,20 @@
+{
+  "name": "ncat",
+  "version": "1.0.0",
+  "main": "index.html",
+  "window": {
+    "title": "Каталог запчастей",
+    "toolbar": false,
+    "icon": "bin/images/icon.png"
+  },
+  "webkit": {
+    "plugin": true
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "theyako",
+  "license": "ISC",
+  "description": ""
+}
