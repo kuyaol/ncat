@@ -5,7 +5,10 @@
   "window": {
     "title": "Каталог запчастей",
     "toolbar": false,
-    "icon": "bin/images/icon.png"
+    "icon": "bin/images/icon.png",
+    "position": "center",
+    "width": 1024,
+    "height": 480
   },
   "webkit": {
     "plugin": true
